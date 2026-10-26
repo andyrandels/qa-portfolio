@@ -2,7 +2,7 @@
 
 Примеры тестовой документации по трём проектам: веб-платформе SimpleOne (ITSM) и сервисам Яндекс Метро и Yandex Go (Android-приложения на эмуляторе Android Studio и веб-версии).
 
-- **Чек-листы и тест-кейсы** — в таблице [qa-portfolio.xlsx](qa-portfolio.xlsx), по листу на каждый проект.
+- **Чек-листы и тест-кейсы** — в [Google Таблице](https://docs.google.com/spreadsheets/d/19KhxG8fqs5XBGg2DvpUflR526Keji8dQ_UMsC6o-R50/edit?usp=sharing) (открывается в браузере, по листу на чек-лист и тест-кейсы каждого проекта). Та же таблица для скачивания — [qa-portfolio.xlsx](qa-portfolio.xlsx).
 - **Баг-репорты** — в трекере [Issues](https://github.com/andyrandels/qa-portfolio/issues) этого репозитория. Проверки со статусом Failed в таблице ссылаются на соответствующий issue.
 
 | Проект | Платформы | Чек-лист | Тест-кейсы | Баги |
